@@ -1,0 +1,22 @@
+.statistics {
+  background-color: #c5c5c5;
+  padding: 80px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.title {
+  padding: 30px 0;
+  background-color: #ffffff;
+}
+.stat-list {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  color: #ffffff;
+
+  /* justify-content: space-between; */
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}

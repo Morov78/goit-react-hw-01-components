@@ -1,0 +1,16 @@
+.status {
+  border-radius: 50% 50%;
+  width: 15px;
+  height: 15px;
+  background-color: #db1f19;
+}
+
+.online {
+  background-color: #59e351;
+}
+.avatar {
+  display: block;
+}
+.name {
+  min-width: 250px;
+}
